@@ -2,3 +2,4 @@ first test file to add to the github-demo repository
 trying...again
 edit4
 edit5
+edit6
